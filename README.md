@@ -9,10 +9,12 @@ Stock Clustering based on VaR (Value at Risk)
 *   Al-Ferro Yudisthira Putra
 *   Mohammad Ahnaf Fauzan
 
+---
 ### Overview
 
 Welcome to our stock clustering project! In this repository, we present a powerful tool for clustering stocks based on VaR (Value at Risk) using the historical method. Our approach utilizes three distinct algorithms: KMeans, Agglomerative, and GMM (Gaussian Mixture Model).
 
+---
 ### Algorithms
 
 *   **KMeans:** KMeans is a clustering algorithm that partitions data into K clusters. It works by assigning each data point to the cluster whose mean has the least squared Euclidean distance.
@@ -21,7 +23,7 @@ Welcome to our stock clustering project! In this repository, we present a powerf
     
 *   **GMM (Gaussian Mixture Model):** GMM is a probabilistic model that represents a mixture of Gaussian distributions. It is particularly useful for modeling data that may have been generated from a mixture of several subpopulations.
     
-
+---
 ### Output
 
 Our project provides valuable insights and outputs for stock analysis:
@@ -35,3 +37,7 @@ Our project provides valuable insights and outputs for stock analysis:
 3.  **Recommended Stocks:**
     
     *   Receive recommendations for stocks that share a similar level of risk based on your preferences. This feature assists in making informed decisions aligned with your risk tolerance.
+
+---
+### Version
+Last Update: Dec 2023
