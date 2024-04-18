@@ -40,4 +40,4 @@ Our project provides valuable insights and outputs for stock analysis:
 
 ---
 ### Version
-Last Update: Dec 2023
+Last Update: 18 April 2024
