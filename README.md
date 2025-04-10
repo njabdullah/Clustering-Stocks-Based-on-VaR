@@ -1,15 +1,8 @@
-# Clustering-Stocks-Based-on-VaR
+# Clustering-Stocks-Based-on-VaR!
 
 Stock Clustering based on VaR (Value at Risk)
 ---------------------------------------------
 
-### Team Members
-
-*   Abdullah Nasih Jasir
-*   Al-Ferro Yudisthira Putra
-*   Mohammad Ahnaf Fauzan
-
----
 ### Overview
 
 Welcome to our stock clustering project! In this repository, we present a powerful tool for clustering stocks based on VaR (Value at Risk) using the historical method. Our approach utilizes three distinct algorithms: KMeans, Agglomerative, and GMM (Gaussian Mixture Model).
